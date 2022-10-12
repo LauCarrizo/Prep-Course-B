@@ -3,7 +3,7 @@
 // Crea una variable "string", puede contener lo que quieras:
 // prueba de texto para grabar el cambio
 
-const nuevaString = 'Hola';
+const nuevaString = "Hola";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 1;
@@ -18,7 +18,7 @@ const nuevaResta = 10 - 5 === 5;
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === 21%5;
+const nuevoModulo = 21 % 5 === 1;
 
 // No modificar nada debajo de esta línea
 // --------------------------------
